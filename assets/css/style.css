@@ -1,0 +1,13 @@
+body{
+    background-image:url("https://media.giphy.com/media/ND6xkVPaj8tHO/giphy.gif");
+    padding: 25px;
+    border: 50px;
+    font-size: 25px;
+}
+
+.cars-button{
+    font-size: 25px;
+    background: blue;
+    font-style: italic;
+    color: lime;
+}
